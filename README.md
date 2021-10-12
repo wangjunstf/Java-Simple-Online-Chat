@@ -24,23 +24,23 @@
 客户端
 
 ```
-├── UI																		注册与登录界面（使用 swing）
+├── UI								  注册与登录界面（使用 swing）
 │   ├── Main.java
 │   ├── MainChatWin.java
 │   ├── Register.java
 │   └── ShowDialog.java
-├── json-simple-1.1.1.jar									序列化包 
-├── mysql-connector-java-8.0.22.jar				数据库驱动
+├── json-simple-1.1.1.jar			   序列化包 
+├── mysql-connector-java-8.0.22.jar	   数据库驱动
 ├── serverTools														
 │   ├── ClientThread.java
 │   ├── Information.java
 │   ├── SendMsg.java
-│   └── TcpClient.java										入口
+│   └── TcpClient.java				    入口
 ├── sql
 │   └── Sql.java
 └── tools																	
-    ├── ExistJudge.java										判断用户是否存在
-    └── MyJson.java												序列化工具
+    ├── ExistJudge.java					判断用户是否存在
+    └── MyJson.java						序列化工具
 ```
 
 
@@ -48,17 +48,17 @@
 服务器端
 
 ```
-├── json-simple-1.1.1.jar									序列化包
+├── json-simple-1.1.1.jar			     序列化包
 ├── serve								
 │   ├── Information.java
 │   ├── MsgMange.java
 │   ├── MsgStore.java
 │   ├── OnlineUser.java
 │   ├── ServerThread.java
-│   └── TcpServer.java										入口
+│   └── TcpServer.java					  入口
 └── tools
-    ├── JudgeOnline.java									判断用户是否在线
-    └── MyJson.java												序列化工具
+    ├── JudgeOnline.java				  判断用户是否在线
+    └── MyJson.java						  序列化工具
 
 ```
 
