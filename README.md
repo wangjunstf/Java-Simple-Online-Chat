@@ -92,7 +92,7 @@
 
 左下，小红登录后，收到消息“你好”。右边，服务器运行信息。
 
-<img src="/Users/wangjun/Desktop/截图/截屏2021-10-12 下午4.55.22.png" alt="截屏2021-10-12 下午4.55.22" style="zoom: 50%;" />
+<img src="http://qqimage.wangjunblogs.com/uPic/%E6%88%AA%E5%B1%8F2021-10-12%20%E4%B8%8B%E5%8D%884.55.22.png" alt="截屏2021-10-12 下午4.55.22" style="zoom: 50%;" />
 
 
 
